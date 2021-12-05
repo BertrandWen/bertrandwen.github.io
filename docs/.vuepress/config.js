@@ -10,7 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Projects", link: "/projects/"},
-      { text: "Blog", link: "/blog/" }
+      { text: "Blog", link: "https://hughwen.github.io/blog" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
