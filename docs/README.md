@@ -14,7 +14,7 @@ socials:
     link: https://www.linkedin.com/in/weihuang-wen-58134b141/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com/hugh_wen/
+    link: https://www.instagram.com/mark2xwen/
 
 bio: A programmer for the fun of it.
 email: wenwh@mail.sustech.edu.cn
@@ -48,12 +48,21 @@ Sept 2014 - July 2018
 
 ## Selected Projects
 
-
 [→ Full list](/projects/)
 
 <ProjectCard hideBorder=true>
 
-  **ServingAgent**
+  **2. Multi-task Learning for Aspect-based Sentiment Analysis**
+
+  This work proposes a deep multi-task learning framework for aspect term extraction (ATE). Furthermore, it presents a novel way to combines aspect term extraction and aspect sentiment classification into an individual task, which can avoid the error propagation from the pipeline approach.
+
+  [[demo](https://youtu.be/Ei56KQ2As-8)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **3. ServingAgent**
 
   ServingAgent is designed as a middleware for model serving between web server and model server to help the server improve the GPU utilization then speedup online inference. 
   
@@ -63,7 +72,7 @@ Sept 2014 - July 2018
 
 <ProjectCard hideBorder=true>
 
-  **ServingTemplate**
+  **4. ServingTemplate**
   
   ServingTemplate is a tool to auto gereate the model serving project template.
 
@@ -73,7 +82,7 @@ Sept 2014 - July 2018
 
 <ProjectCard hideBorder=true>
 
-  **MagicComment**
+  **5. MagicComment**
   
   MagicComment is a Visual Studio Code extension, which will comment the uncomment part and uncomment the comment part when the selection content contains both of them.
 
