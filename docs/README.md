@@ -29,9 +29,10 @@ Before this, I worked as a research assistant in [Southen University of Science 
 
 ## Interests
 
+- Few-shot Learning
 - Machine Learning Systems
-- Database Systems
 - Natural Language Processing
+- Database Systems
 
 ## Education & Experiences
 
