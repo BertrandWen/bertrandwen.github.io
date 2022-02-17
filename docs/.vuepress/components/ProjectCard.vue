@@ -21,7 +21,7 @@ export default {
 .md-card
   background-color $frontColor
   margin-top 1em
-  min-height 150px
+  min-height 100px
   display flex
   flex-direction row
   align-items: stretch
