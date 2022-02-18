@@ -41,7 +41,7 @@ Dec 2021 - Now
 Mar 2021 - Nov 2021
 - [**Yimian Network Technology**](https://www.yimian.com.cn/), algorithm engineer<br/>
 July 2020 - Feb 2021
-- [**Harbin Institute of Technology (Joint Master Programer with SUSTech)**](https://www.hit.edu.cn/), Master of Engineering<br/>
+- [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), Master of Engineering<br/>
 Sept 2018 - July 2020
 - [**Southen University of Science and Technology**](https://sustech.edu.cn/), Bachelor of Engineering<br/>
 Sept 2014 - July 2018
