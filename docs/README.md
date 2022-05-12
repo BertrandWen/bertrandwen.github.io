@@ -24,27 +24,29 @@ email: wenwh@mail.sustech.edu.cn
 
 ## About Me
 
-I am now an engineer in [Shenzhen Health Development Research and Data Management Center](http://wjw.sz.gov.cn/jyzx/).
-Before this, I worked as a research assistant in [Southen University of Science and Technology](https://sustech.edu.cn/).
+I am now a research assistant in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/) with [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
+Before this, I worked as an engineer in [Shenzhen Health Development Research and Data Management Center](http://wjw.sz.gov.cn/jyzx/).
 
 ## Interests
 
-- Machine Learning Systems
+- Machine Learning for Combinatorial Problems
 - Natural Language Processing
-- Database Systems
+- Machine Learning Systems
 
 ## Education & Experiences
 
+- [**The Chinese University of Hong Kong, Shenzhen**](https://www.cuhk.edu.cn/), research assistant with [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)<br/>
+Apr. 2022 - Now
 - [**Shenzhen Health Development Research and Data Management Center**](http://wjw.sz.gov.cn/jyzx/), engineer<br/>
-Dec 2021 - Now
-- [**Southen University of Science and Technology**](https://sustech.edu.cn/), research assistant<br/>
-Mar 2021 - Nov 2021
+Dec. 2021 - Apr. 2022
+- [**Southen University of Science and Technology**](https://sustech.edu.cn/), research assistant with [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
+Mar. 2021 - Nov. 2021
 - [**Yimian Network Technology**](https://www.yimian.com.cn/), algorithm engineer<br/>
-July 2020 - Feb 2021
-- [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), Master of Engineering<br/>
-Sept 2018 - July 2020
-- [**Southen University of Science and Technology**](https://sustech.edu.cn/), Bachelor of Engineering<br/>
-Sept 2014 - July 2018
+July 2020 - Feb. 2021
+- [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), MEng under [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
+Sept. 2018 - July 2020
+- [**Southen University of Science and Technology**](https://sustech.edu.cn/), BEng<br/>
+Sept. 2014 - July 2018
 
 ## Selected Projects
 
