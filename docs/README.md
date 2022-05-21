@@ -29,9 +29,9 @@ Before this, I worked as an engineer in [Shenzhen Health Development Research an
 
 ## Interests
 
-- Machine Learning for Combinatorial Problems
-- Natural Language Processing
+- Machine Learning for Boolean Satisfiability Problem
 - Machine Learning Systems
+- Natural Language Processing
 
 ## Education & Experiences
 
