@@ -8,7 +8,7 @@ profile: /dinosaur.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/hughwen
+    link: https://github.com/bertrandwen
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/weihuang-wen-58134b141/
@@ -17,7 +17,7 @@ socials:
     link: https://www.instagram.com/mark2xwen/
 
 bio: A programmer for the fun of it.
-email: wenwh@mail.sustech.edu.cn
+email: wenwh96@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -29,9 +29,9 @@ Before this, I worked as an engineer in [Shenzhen Health Development Research an
 
 ## Interests
 
-- Machine Learning for Boolean Satisfiability Problem
-- Machine Learning Systems
-- Natural Language Processing
+- Machine Learning for Boolean Satisfiability Problem (SAT)
+- Machine Learning for graph
+- AI for Solver
 
 ## Education & Experiences
 

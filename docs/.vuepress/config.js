@@ -9,8 +9,8 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "Projects", link: "/projects/"},
-      { text: "Blog", link: "https://hughwen.github.io/blog" }
+      { text: "Projects", link: "/projects/" },
+      { text: "Blog", link: "https://bertrandwen.github.io/blog" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
@@ -27,7 +27,7 @@ module.exports = {
   }
 };
 
-function genSidebarConfig (title) {
+function genSidebarConfig(title) {
   return [
     {
       title,
