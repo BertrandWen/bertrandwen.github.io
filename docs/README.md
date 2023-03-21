@@ -67,7 +67,7 @@ In this paper, we propose W2SAT, a framework to generate SAT formulas by learnin
 
 <ProjectCard hideBorder=true>
 
-  **SAT-LLL: Lovász Local Lemma for SAT (preprint)**
+  **SAT-LLL: Lovász Local Lemma for SAT**
 
 *(preprint)*
 
@@ -88,8 +88,8 @@ Overall, SAT-LLL is a valuable tool bridging the Lovász Local Lemma and the SAT
 
   **1. A steganography scheme based on adversarial examples (master thesis)**
 
-  In this work, we regard the adversarial nature of the adversarial
-  examples itself as information, which can be decoded by the specific model only.
+In this work, we propose a friendly application constructed by adversarial examples: a steganography scheme based on adversarial examples.
+In this scheme, we regard the adversarial nature of the adversarial examples itself as information, which can be decoded by the specific model only.
 
   [[demo](https://youtu.be/tQftH1gJRzA)]
 
@@ -99,7 +99,8 @@ Overall, SAT-LLL is a valuable tool bridging the Lovász Local Lemma and the SAT
 
   **2. Multi-task Learning for Aspect-based Sentiment Analysis (bachelor thesis)**
 
-  This work proposes a deep multi-task learning framework for aspect term extraction (ATE). Furthermore, it presents a novel way to combines aspect term extraction and aspect sentiment classification into an individual task, which can avoid the error propagation from the pipeline approach.
+  This work proposes a deep multi-task learning framework for aspect term extraction (ATE).
+  Furthermore, it presents a novel way to combines aspect term extraction and aspect sentiment classification into an individual task, which can avoid the error propagation from the pipeline approach.
 
   [[demo](https://youtu.be/Ei56KQ2As-8)]
 
@@ -122,16 +123,6 @@ Overall, SAT-LLL is a valuable tool bridging the Lovász Local Lemma and the SAT
   ServingTemplate is a tool to auto gereate the model serving project template.
 
   [[code](https://github.com/HughWen/ServingTemplate)]
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **5. MagicComment**
-  
-  MagicComment is a Visual Studio Code extension, which will comment the uncomment part and uncomment the comment part when the selection content contains both of them.
-
-  [[code](https://github.com/HughWen/magic-comment)]
 
 </ProjectCard>
 
