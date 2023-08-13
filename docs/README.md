@@ -30,8 +30,11 @@ Before this, I worked as an engineer in [Shenzhen Health Development Research an
 ## Interests
 
 - Machine Learning for Boolean Satisfiability Problem (SAT)
-- Machine Learning for graph
-- AI for Solver
+  - Industrial SAT instance generation
+  - Learning-aided SAT solver
+  - Maximum satisfiability problem (MAX-SAT)
+- Mixed-Integer Programming (MIP)
+- Sampling through the Lovász local lemma (LLL)
 
 ## Education & Experiences
 
@@ -48,6 +51,35 @@ Sept. 2018 - July 2020
 - [**Southen University of Science and Technology**](https://sustech.edu.cn/), BEng<br/>
 Sept. 2014 - July 2018
 
+## Publications
+
+<ProjectCard hideBorder=true>
+
+  **W2SAT: Learning to generate SAT instances from Weighted Literal Incidence Graphs**
+
+*(preprint)*
+
+In this paper, we propose W2SAT, a framework to generate SAT formulas by learning intrinsic structures and properties from given real-world/industrial instances implicitly. We introduce a novel SAT representation called Weighted Literal Incidence Graph (WLIG), which exhibits strong representation ability and generalizability against existing counterparts, and can be efficiently generated via a specialized learning-based graph generative model. Decoding from WLIGs into SAT problems is then modeled as finding overlapping cliques with a novel hill-climbing optimization method termed Optimal Weight Coverage (OWC).
+
+ [[paper](https://arxiv.org/abs/2302.00272)] [[code](https://github.com/LOGO-CUHKSZ/W2SAT)]
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **SAT-LLL: Lovász Local Lemma for SAT**
+
+*(preprint)*
+
+In this paper, we introduce **SAT-LLL**, a tool that applies LLL to the Boolean Satisfiability (SAT) problem.
+The SAT-LLL consists of an instance generator that produces formulas under the LLL condition (in the local lemma regime), an algorithm that decides if a given SAT instance is in the local lemma regime, and a solver that can search for solutions or uniformly sample solutions in the local lemma regime.
+Overall, SAT-LLL is a valuable tool bridging the Lovász Local Lemma and the SAT problem by simplifying the simulation and experimentation of future research. Being a valuable tool for researchers and practitioners, SAT-LLL offers a novel approach to studying SAT problems from an LLL perspective.
+
+  [[code](https://github.com/opensat/SATLLL)]
+
+</ProjectCard>
+
+
 ## Selected Projects
 
 [→ Full list](/projects/)
@@ -56,8 +88,8 @@ Sept. 2014 - July 2018
 
   **1. A steganography scheme based on adversarial examples (master thesis)**
 
-  In this work, we regard the adversarial nature of the adversarial
-  examples itself as information, which can be decoded by the specific model only.
+In this work, we propose a friendly application constructed by adversarial examples: a steganography scheme based on adversarial examples.
+In this scheme, we regard the adversarial nature of the adversarial examples itself as information, which can be decoded by the specific model only.
 
   [[demo](https://youtu.be/tQftH1gJRzA)]
 
@@ -67,7 +99,8 @@ Sept. 2014 - July 2018
 
   **2. Multi-task Learning for Aspect-based Sentiment Analysis (bachelor thesis)**
 
-  This work proposes a deep multi-task learning framework for aspect term extraction (ATE). Furthermore, it presents a novel way to combines aspect term extraction and aspect sentiment classification into an individual task, which can avoid the error propagation from the pipeline approach.
+  This work proposes a deep multi-task learning framework for aspect term extraction (ATE).
+  Furthermore, it presents a novel way to combines aspect term extraction and aspect sentiment classification into an individual task, which can avoid the error propagation from the pipeline approach.
 
   [[demo](https://youtu.be/Ei56KQ2As-8)]
 
@@ -90,16 +123,6 @@ Sept. 2014 - July 2018
   ServingTemplate is a tool to auto gereate the model serving project template.
 
   [[code](https://github.com/HughWen/ServingTemplate)]
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **5. MagicComment**
-  
-  MagicComment is a Visual Studio Code extension, which will comment the uncomment part and uncomment the comment part when the selection content contains both of them.
-
-  [[code](https://github.com/HughWen/magic-comment)]
 
 </ProjectCard>
 
