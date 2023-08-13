@@ -17,7 +17,7 @@ socials:
     link: https://www.instagram.com/mark2xwen/
 
 bio: A programmer for the fun of it.
-email: wenwh96@gmail.com
+email: wenwh32@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
