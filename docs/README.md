@@ -8,7 +8,7 @@ profile: /dinosaur.jpg
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/wenwh32
+    link: https://github.com/markwwen
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/weihuang-wen-58134b141/
@@ -17,7 +17,7 @@ socials:
     link: https://www.instagram.com/mark2xwen/
 
 bio: A programmer for the fun of it.
-email: wenwh32@gmail.com
+email: wenwh96@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -112,7 +112,7 @@ In this scheme, we regard the adversarial nature of the adversarial examples its
 
   ServingAgent is designed as a middleware for model serving between web server and model server to help the server improve the GPU utilization then speedup online inference. 
   
-  [[code](https://github.com/wenwh32/ServingAgent)]
+  [[code](https://github.com/markwwen/ServingAgent)]
 
 </ProjectCard>
 
@@ -122,7 +122,7 @@ In this scheme, we regard the adversarial nature of the adversarial examples its
   
   ServingTemplate is a tool to auto gereate the model serving project template.
 
-  [[code](https://github.com/wenwh32/ServingTemplate)]
+  [[code](https://github.com/markwwen/ServingTemplate)]
 
 </ProjectCard>
 
