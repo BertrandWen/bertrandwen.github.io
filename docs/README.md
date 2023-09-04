@@ -24,8 +24,7 @@ email: wenwh96@gmail.com
 
 ## About Me
 
-I am now a research assistant in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/) with [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
-Before this, I worked as an engineer in [Shenzhen Health Development Research and Data Management Center](http://wjw.sz.gov.cn/jyzx/).
+I am now a Ph.D. student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), supervised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
 
 ## Interests
 
@@ -38,15 +37,15 @@ Before this, I worked as an engineer in [Shenzhen Health Development Research an
 
 ## Education & Experiences
 
-- [**The Chinese University of Hong Kong, Shenzhen**](https://www.cuhk.edu.cn/), research assistant with [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)<br/>
-Apr. 2022 - Now
+- [**The Chinese University of Hong Kong, Shenzhen**](https://www.cuhk.edu.cn/), Ph.D. student, supervised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)<br/>
+Sept. 2023 - Now
 - [**Shenzhen Health Development Research and Data Management Center**](http://wjw.sz.gov.cn/jyzx/), engineer<br/>
 Dec. 2021 - Apr. 2022
 - [**Southen University of Science and Technology**](https://sustech.edu.cn/), research assistant with [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
 Mar. 2021 - Nov. 2021
 - [**Yimian Network Technology**](https://www.yimian.com.cn/), algorithm engineer<br/>
 July 2020 - Feb. 2021
-- [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), MEng under [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
+- [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), MEng, supervised by [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
 Sept. 2018 - July 2020
 - [**Southen University of Science and Technology**](https://sustech.edu.cn/), BEng<br/>
 Sept. 2014 - July 2018
