@@ -24,7 +24,7 @@ email: wenwh96@gmail.com
 
 ## About Me
 
-I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), advised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my BEng and MEng in Computer Science from the [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/), advised by [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/).
+I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), advised by [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my BEng and MEng in Computer Science from the [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/), advised by [Prof.Qi Wang](https://cse.sustech.edu.cn/faculty/~wangqi/).
 
 
 ## Interests
