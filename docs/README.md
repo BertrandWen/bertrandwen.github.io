@@ -24,7 +24,8 @@ email: wenwh96@gmail.com
 
 ## About Me
 
-I am now a Ph.D. student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), supervised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/).
+I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/), advised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my BEng and MEng in Computer Science from the [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/), advised by [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/).
+
 
 ## Interests
 
@@ -35,7 +36,7 @@ I am now a Ph.D. student in [The Chinese University of Hong Kong, Shenzhen](http
 - Mixed-Integer Programming (MIP)
 - Sampling through the Lovász local lemma (LLL)
 
-## Education & Experiences
+<!-- ## Education & Experiences
 
 - [**The Chinese University of Hong Kong, Shenzhen**](https://www.cuhk.edu.cn/), Ph.D. student, supervised by [Prof.Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)<br/>
 Sept. 2023 - Now
@@ -48,7 +49,7 @@ July 2020 - Feb. 2021
 - [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), MEng, supervised by [Prof.Wang](https://cse.sustech.edu.cn/faculty/~wangqi/)<br/>
 Sept. 2018 - July 2020
 - [**Southen University of Science and Technology**](https://sustech.edu.cn/), BEng<br/>
-Sept. 2014 - July 2018
+Sept. 2014 - July 2018 -->
 
 ## Publications
 
