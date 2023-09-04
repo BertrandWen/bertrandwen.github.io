@@ -1,3 +1,4 @@
+<!-- build the project with npm v14 -->
 <h1 align="center">
   <a href="https://github.com/mtobeiyf/vuepress-homepage" title="Homepage">
     <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
