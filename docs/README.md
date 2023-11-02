@@ -32,9 +32,7 @@ I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen (CUHKSZ
 - Machine Learning for Boolean Satisfiability Problem (SAT)
   - Industrial SAT instance generation
   - Learning-aided SAT solver
-  - Maximum satisfiability problem (MAX-SAT)
-- Mixed-Integer Programming (MIP)
-- Sampling through the Lovász local lemma (LLL)
+- Algorithm selection/configuration
 
 <!-- ## Education & Experiences
 
