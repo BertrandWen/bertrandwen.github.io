@@ -24,7 +24,7 @@ email: wenwh96@gmail.com
 
 ## About Me
 
-I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/), advised by [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my BEng and MEng in Computer Science from the [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/) and [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), advised by [Prof.Qi Wang](https://cse.sustech.edu.cn/faculty/~wangqi/).
+I am now a second-year phd candidate in [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/), advised by [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my BEng and MEng in Computer Science from the [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/) and [**Harbin Institute of Technology (Joint Master Program with SUSTech)**](https://www.hit.edu.cn/), advised by [Prof.Qi Wang](https://cse.sustech.edu.cn/faculty/~wangqi/).
 
 
 ## Interests
@@ -32,7 +32,7 @@ I am now a PhD student in [The Chinese University of Hong Kong, Shenzhen (CUHKSZ
 - Machine Learning for Boolean Satisfiability Problem (SAT)
   - Industrial SAT instance generation
   - Learning-aided SAT solver
-- Algorithm selection/configuration
+- Machine Learning for Combinatorial Optimization
 
 <!-- ## Education & Experiences
 
@@ -53,13 +53,13 @@ Sept. 2014 - July 2018 -->
 
 <ProjectCard hideBorder=true>
 
-  **W2SAT: Learning to generate SAT instances from Weighted Literal Incidence Graphs**
+  **HyperPLR: Hypergraph Generation through Projection, Learning, and Reconstruction**
 
-*(preprint)*
+*ICLR 2025*
 
-In this paper, we propose W2SAT, a framework to generate SAT formulas by learning intrinsic structures and properties from given real-world/industrial instances implicitly. We introduce a novel SAT representation called Weighted Literal Incidence Graph (WLIG), which exhibits strong representation ability and generalizability against existing counterparts, and can be efficiently generated via a specialized learning-based graph generative model. Decoding from WLIGs into SAT problems is then modeled as finding overlapping cliques with a novel hill-climbing optimization method termed Optimal Weight Coverage (OWC).
+Hypergraphs are essential in modeling higher-order complex networks, excelling in representing group interactions within real-world contexts. This is particularly evident in collaboration networks, where they facilitate the capture of groupwise polyadic patterns, extending beyond traditional pairwise dyadic interactions. The use of hypergraph generators, or generative models, is a crucial method for promoting and validating our understanding of these structures. If such generators accurately replicate observed hypergraph patterns, it reinforces the validity of our interpretations. In this context, we introduce a novel hypergraph generative paradigm, \textbf{HyperPLR}, encompassing three phases: Projection, Learning, and Reconstruction. Initially, the hypergraph is projected onto a weighted graph. Subsequently, the model learns this graph's structure within a latent space, while simultaneously computing a distribution between the hyperedge and the projected graph. Finally, leveraging the learned model and distribution, HyperPLR generates new weighted graphs and samples cliques from them. These cliques are then used to reconstruct new hypergraphs by solving a specific clique cover problem. We have evaluated HyperPLR on existing real-world hypergraph datasets, which consistently demonstrate superior performance and validate the effectiveness of our approach.
 
- [[paper](https://arxiv.org/abs/2302.00272)] [[code](https://github.com/LOGO-CUHKSZ/W2SAT)]
+ [[paper](https://openreview.net/forum?id=TYnne6Pa35)]
 
 </ProjectCard>
 
